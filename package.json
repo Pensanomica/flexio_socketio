@@ -1,0 +1,22 @@
+{
+  "name": "flexiosocketio",
+  "version": "1.0.0",
+  "description": "notificacion en real time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Pensanomica/flexio_socketio.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Pensanomica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pensanomica/flexio_socketio/issues"
+  },
+  "homepage": "https://github.com/Pensanomica/flexio_socketio#readme"
+}
